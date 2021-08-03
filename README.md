@@ -1,5 +1,7 @@
 ![Coming Soon TonynaCOIN](https://fabinidc.com/banner_1_tonyna.jpg)
 
+# ENGLISH
+
 # TonynaCOIN-TONYNA-Crypto
 
 TONYNA (TonynaCOIN) is an experimental project that aims to explore the mysteries of cryptocurrencies and blockchain.
@@ -15,8 +17,8 @@ We don't have the website up and running yet, but the chosen domain is: https://
 There is no Update yet. We will keep you informed.
 
 
-
-
+***
+# ESPAÑOL
 
 # TonynaCOIN-TONYNA-Crypto
 
