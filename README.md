@@ -16,6 +16,8 @@ We don't have the website up and running yet, but the chosen domain is: https://
 
 There is no Update yet. We will keep you informed.
 
+04/08/2021 Added Beta 0.1 version of the Windows app. Other platforms coming soon.
+
 
 ***
 # ESPAÑOL
@@ -33,3 +35,5 @@ Todavía no tenemos la web en funcionamiento, pero el domio elegido es: https://
 # Updates:
 
 Todavía no hay ningún Update. Iremos informando.
+
+04/08/2021 Añadimos la Beta 0.1 de la Wallet. La versión es para Windows, y pronto saldrá para otras plataformas.
